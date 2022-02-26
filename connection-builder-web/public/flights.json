@@ -1,0 +1,82 @@
+[
+    {
+        "onwardLeg": {
+            "flightNo": "EK501",
+            "source": "BOM",
+            "destination": "DXB",
+            "etd": "04:30",
+            "eta": "06:00"
+        },
+        "connectingLeg": {
+            "flightNo": "EK201",
+            "source": "DXB",
+            "destination": "JFK",
+            "etd": "08:30",
+            "eta": "14:25"
+        }
+    },
+    {
+        "onwardLeg": {
+            "flightNo": "AI131",
+            "source": "BOM",
+            "destination": "LHR",
+            "etd": "04:30",
+            "eta": "09:30"
+        },
+        "connectingLeg": {
+            "flightNo": "VS138",
+            "source": "LHR",
+            "destination": "JFK",
+            "etd": "11:15",
+            "eta": "14:30"
+        }
+    },
+    {
+        "onwardLeg": {
+            "flightNo": "EK503",
+            "source": "BOM",
+            "destination": "DXB",
+            "etd": "05:10",
+            "eta": "06:50"
+        },
+        "connectingLeg": {
+            "flightNo": "EK205",
+            "source": "DXB",
+            "destination": "JFK",
+            "etd": "09:45",
+            "eta": "19:00"
+        }
+    },
+    {
+        "onwardLeg": {
+            "flightNo": "EK507",
+            "source": "BOM",
+            "destination": "DXB",
+            "etd": "15:35",
+            "eta": "20:00"
+        },
+        "connectingLeg": {
+            "flightNo": "EK203",
+            "source": "DXB",
+            "destination": "JFK",
+            "etd": "02:50",
+            "eta": "08:50"
+        }
+    },
+    {
+        "onwardLeg": {
+            "flightNo": "EK509",
+            "source": "BOM",
+            "destination": "DXB",
+            "etd": "19:20",
+            "eta": "21:00"
+        },
+        "connectingLeg": {
+            "flightNo": "EK203",
+            "source": "DXB",
+            "destination": "JFK",
+            "etd": "02:50",
+            "eta": "08:50"
+        }
+    }
+]

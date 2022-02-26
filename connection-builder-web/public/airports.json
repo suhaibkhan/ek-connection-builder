@@ -1,0 +1,27 @@
+[
+    {
+        "code": "BOM",
+        "name": "Chhatrapati Shivaji Maharaj International Airport",
+        "coordinates": { "lat": 19.097403, "lng": 72.874245 }
+    },
+    {
+        "code": "DEL",
+        "name": "Indira Gandhi International Airport",
+        "coordinates": { "lat": 28.55616, "lng": 77.100281 }
+    },
+    {
+        "code": "DXB",
+        "name": "Dubai International Airport",
+        "coordinates": { "lat": 25.252777, "lng": 55.364445 }
+    },
+    {
+        "code": "JFK",
+        "name": "John F. Kennedy International Airport",
+        "coordinates": { "lat": 40.641766, "lng": -73.780968 }
+    },
+    {
+        "code": "LHR",
+        "name": "London Heathrow Airport",
+        "coordinates": { "lat": 51.47002, "lng": -0.454295 }
+    }
+]
